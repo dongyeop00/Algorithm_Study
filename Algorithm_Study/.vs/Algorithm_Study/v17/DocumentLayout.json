@@ -3,8 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\SAMSUNG\\Desktop\\Algorithm_Study\\Algorithm_Study\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{99F9D969-B8ED-4071-9C3C-FD7797CFDFB8}|Algorithm_Study\\Algorithm_Study.vcxproj|C:\\Users\\SAMSUNG\\Desktop\\Algorithm_Study\\Algorithm_Study\\Algorithm_Study\\Baek13458.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{99F9D969-B8ED-4071-9C3C-FD7797CFDFB8}|Algorithm_Study\\Algorithm_Study.vcxproj|solutionrelative:Algorithm_Study\\Baek13458.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99F9D969-B8ED-4071-9C3C-FD7797CFDFB8}|Algorithm_Study\\Algorithm_Study.vcxproj|C:\\Users\\SAMSUNG\\Desktop\\Algorithm_Study\\Algorithm_Study\\Algorithm_Study\\Baek1012.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{99F9D969-B8ED-4071-9C3C-FD7797CFDFB8}|Algorithm_Study\\Algorithm_Study.vcxproj|solutionrelative:Algorithm_Study\\Baek1012.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99F9D969-B8ED-4071-9C3C-FD7797CFDFB8}|Algorithm_Study\\Algorithm_Study.vcxproj|C:\\Users\\SAMSUNG\\Desktop\\Algorithm_Study\\Algorithm_Study\\Algorithm_Study\\Baek9012.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{99F9D969-B8ED-4071-9C3C-FD7797CFDFB8}|Algorithm_Study\\Algorithm_Study.vcxproj|solutionrelative:Algorithm_Study\\Baek9012.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99F9D969-B8ED-4071-9C3C-FD7797CFDFB8}|Algorithm_Study\\Algorithm_Study.vcxproj|C:\\Users\\SAMSUNG\\Desktop\\Algorithm_Study\\Algorithm_Study\\Algorithm_Study\\Baek10773.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{99F9D969-B8ED-4071-9C3C-FD7797CFDFB8}|Algorithm_Study\\Algorithm_Study.vcxproj|solutionrelative:Algorithm_Study\\Baek10773.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99F9D969-B8ED-4071-9C3C-FD7797CFDFB8}|Algorithm_Study\\Algorithm_Study.vcxproj|C:\\Users\\SAMSUNG\\Desktop\\Algorithm_Study\\Algorithm_Study\\Algorithm_Study\\Baek28278.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{99F9D969-B8ED-4071-9C3C-FD7797CFDFB8}|Algorithm_Study\\Algorithm_Study.vcxproj|solutionrelative:Algorithm_Study\\Baek28278.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{99F9D969-B8ED-4071-9C3C-FD7797CFDFB8}|Algorithm_Study\\Algorithm_Study.vcxproj|C:\\Users\\SAMSUNG\\Desktop\\Algorithm_Study\\Algorithm_Study\\Algorithm_Study\\Baek11720.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{99F9D969-B8ED-4071-9C3C-FD7797CFDFB8}|Algorithm_Study\\Algorithm_Study.vcxproj|solutionrelative:Algorithm_Study\\Baek11720.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99F9D969-B8ED-4071-9C3C-FD7797CFDFB8}|Algorithm_Study\\Algorithm_Study.vcxproj|C:\\Users\\SAMSUNG\\Desktop\\Algorithm_Study\\Algorithm_Study\\Algorithm_Study\\stackMethod.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{99F9D969-B8ED-4071-9C3C-FD7797CFDFB8}|Algorithm_Study\\Algorithm_Study.vcxproj|solutionrelative:Algorithm_Study\\stackMethod.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,12 +43,90 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Baek13458.cpp",
+              "DocumentMoniker": "C:\\Users\\SAMSUNG\\Desktop\\Algorithm_Study\\Algorithm_Study\\Algorithm_Study\\Baek13458.cpp",
+              "RelativeDocumentMoniker": "Algorithm_Study\\Baek13458.cpp",
+              "ToolTip": "C:\\Users\\SAMSUNG\\Desktop\\Algorithm_Study\\Algorithm_Study\\Algorithm_Study\\Baek13458.cpp",
+              "RelativeToolTip": "Algorithm_Study\\Baek13458.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-29T07:37:46.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Baek1012.cpp",
+              "DocumentMoniker": "C:\\Users\\SAMSUNG\\Desktop\\Algorithm_Study\\Algorithm_Study\\Algorithm_Study\\Baek1012.cpp",
+              "RelativeDocumentMoniker": "Algorithm_Study\\Baek1012.cpp",
+              "ToolTip": "C:\\Users\\SAMSUNG\\Desktop\\Algorithm_Study\\Algorithm_Study\\Algorithm_Study\\Baek1012.cpp",
+              "RelativeToolTip": "Algorithm_Study\\Baek1012.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-29T05:54:44.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Baek9012.cpp",
+              "DocumentMoniker": "C:\\Users\\SAMSUNG\\Desktop\\Algorithm_Study\\Algorithm_Study\\Algorithm_Study\\Baek9012.cpp",
+              "RelativeDocumentMoniker": "Algorithm_Study\\Baek9012.cpp",
+              "ToolTip": "C:\\Users\\SAMSUNG\\Desktop\\Algorithm_Study\\Algorithm_Study\\Algorithm_Study\\Baek9012.cpp",
+              "RelativeToolTip": "Algorithm_Study\\Baek9012.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-29T05:03:56.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Baek10773.cpp",
+              "DocumentMoniker": "C:\\Users\\SAMSUNG\\Desktop\\Algorithm_Study\\Algorithm_Study\\Algorithm_Study\\Baek10773.cpp",
+              "RelativeDocumentMoniker": "Algorithm_Study\\Baek10773.cpp",
+              "ToolTip": "C:\\Users\\SAMSUNG\\Desktop\\Algorithm_Study\\Algorithm_Study\\Algorithm_Study\\Baek10773.cpp",
+              "RelativeToolTip": "Algorithm_Study\\Baek10773.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-29T03:12:24.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "stackMethod.cpp",
+              "DocumentMoniker": "C:\\Users\\SAMSUNG\\Desktop\\Algorithm_Study\\Algorithm_Study\\Algorithm_Study\\stackMethod.cpp",
+              "RelativeDocumentMoniker": "Algorithm_Study\\stackMethod.cpp",
+              "ToolTip": "C:\\Users\\SAMSUNG\\Desktop\\Algorithm_Study\\Algorithm_Study\\Algorithm_Study\\stackMethod.cpp",
+              "RelativeToolTip": "Algorithm_Study\\stackMethod.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-29T02:36:21.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Baek28278.cpp",
+              "DocumentMoniker": "C:\\Users\\SAMSUNG\\Desktop\\Algorithm_Study\\Algorithm_Study\\Algorithm_Study\\Baek28278.cpp",
+              "RelativeDocumentMoniker": "Algorithm_Study\\Baek28278.cpp",
+              "ToolTip": "C:\\Users\\SAMSUNG\\Desktop\\Algorithm_Study\\Algorithm_Study\\Algorithm_Study\\Baek28278.cpp",
+              "RelativeToolTip": "Algorithm_Study\\Baek28278.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-29T02:08:36.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Baek11720.cpp",
               "DocumentMoniker": "C:\\Users\\SAMSUNG\\Desktop\\Algorithm_Study\\Algorithm_Study\\Algorithm_Study\\Baek11720.cpp",
               "RelativeDocumentMoniker": "Algorithm_Study\\Baek11720.cpp",
               "ToolTip": "C:\\Users\\SAMSUNG\\Desktop\\Algorithm_Study\\Algorithm_Study\\Algorithm_Study\\Baek11720.cpp",
               "RelativeToolTip": "Algorithm_Study\\Baek11720.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAACAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-07-29T01:57:20.6Z",
               "EditorCaption": ""

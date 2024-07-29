@@ -13,10 +13,40 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="소스 파일\Basic">
+      <UniqueIdentifier>{67512da3-d785-47ca-8f7d-d184674d1088}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Stack">
+      <UniqueIdentifier>{cc3395ce-db7f-4d8c-a9b8-57169e160016}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\DFS">
+      <UniqueIdentifier>{4a8b23bf-fbe1-40d4-84d0-1d382370fb8e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\BaekSamsung">
+      <UniqueIdentifier>{e6fab689-1c94-46f2-8fdc-183f038ade6f}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Baek11720.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\Basic</Filter>
+    </ClCompile>
+    <ClCompile Include="Baek28278.cpp">
+      <Filter>소스 파일\Stack</Filter>
+    </ClCompile>
+    <ClCompile Include="stackMethod.cpp">
+      <Filter>소스 파일\Stack</Filter>
+    </ClCompile>
+    <ClCompile Include="Baek10773.cpp">
+      <Filter>소스 파일\Stack</Filter>
+    </ClCompile>
+    <ClCompile Include="Baek9012.cpp">
+      <Filter>소스 파일\Stack</Filter>
+    </ClCompile>
+    <ClCompile Include="Baek1012.cpp">
+      <Filter>소스 파일\DFS</Filter>
+    </ClCompile>
+    <ClCompile Include="Baek13458.cpp">
+      <Filter>소스 파일\BaekSamsung</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
