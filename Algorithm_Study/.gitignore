@@ -1,0 +1,28 @@
+
+# Visual Studio 관련 파일 및 폴더
+.vs/
+
+# 빌드 출력 폴더
+x64/
+bin/
+obj/
+
+# 사용자별 설정 파일
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# 임시 파일
+*.tmp
+*.log
+
+# 기타 시스템 파일
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.BIN/
+.DS_Store
+.AppleDouble
+.LSOverride
+
