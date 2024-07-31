@@ -31,6 +31,18 @@
     <Filter Include="소스 파일\map">
       <UniqueIdentifier>{da5f94c7-e6d7-4b05-b7ac-ad777d5c999e}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\SWEA">
+      <UniqueIdentifier>{78a8f7a0-4b02-4d4f-9c40-826972d85a0d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\SWEA\D1">
+      <UniqueIdentifier>{6a64d5ec-8077-43bf-90f2-b84103782bcd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\SWEA\D2">
+      <UniqueIdentifier>{53e4d501-6c6b-4706-b7b3-f5d67b8f54c5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\SWEA\D3">
+      <UniqueIdentifier>{e7ceeef6-d5ba-4d29-92f2-8186503bc137}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Baek11720.cpp">
@@ -86,6 +98,36 @@
     </ClCompile>
     <ClCompile Include="Baek24479.cpp">
       <Filter>소스 파일\DFS</Filter>
+    </ClCompile>
+    <ClCompile Include="Swea2072.cpp">
+      <Filter>소스 파일\SWEA\D1</Filter>
+    </ClCompile>
+    <ClCompile Include="Swea1859.cpp">
+      <Filter>소스 파일\SWEA\D2</Filter>
+    </ClCompile>
+    <ClCompile Include="Swea2071.cpp">
+      <Filter>소스 파일\SWEA\D1</Filter>
+    </ClCompile>
+    <ClCompile Include="Swea2070.cpp">
+      <Filter>소스 파일\SWEA\D1</Filter>
+    </ClCompile>
+    <ClCompile Include="Swea2068.cpp">
+      <Filter>소스 파일\SWEA\D1</Filter>
+    </ClCompile>
+    <ClCompile Include="Swea2063.cpp">
+      <Filter>소스 파일\SWEA\D1</Filter>
+    </ClCompile>
+    <ClCompile Include="Swea2058.cpp">
+      <Filter>소스 파일\SWEA\D1</Filter>
+    </ClCompile>
+    <ClCompile Include="Swea2050.cpp">
+      <Filter>소스 파일\SWEA\D1</Filter>
+    </ClCompile>
+    <ClCompile Include="Swea2047.cpp">
+      <Filter>소스 파일\SWEA\D1</Filter>
+    </ClCompile>
+    <ClCompile Include="Swea20955.cpp">
+      <Filter>소스 파일\SWEA\D3</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
