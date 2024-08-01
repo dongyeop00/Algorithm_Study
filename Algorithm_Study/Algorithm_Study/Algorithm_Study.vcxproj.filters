@@ -43,6 +43,12 @@
     <Filter Include="소스 파일\SWEA\D3">
       <UniqueIdentifier>{e7ceeef6-d5ba-4d29-92f2-8186503bc137}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Search">
+      <UniqueIdentifier>{031a7aa4-3530-4cf6-a125-9ab0f4d2f66a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Math">
+      <UniqueIdentifier>{69dfb1da-e4c2-484c-9cc2-fbd62836aafe}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Baek11720.cpp">
@@ -128,6 +134,18 @@
     </ClCompile>
     <ClCompile Include="Swea20955.cpp">
       <Filter>소스 파일\SWEA\D3</Filter>
+    </ClCompile>
+    <ClCompile Include="mapTest.cpp">
+      <Filter>소스 파일\map</Filter>
+    </ClCompile>
+    <ClCompile Include="Baek10815.cpp">
+      <Filter>소스 파일\Search</Filter>
+    </ClCompile>
+    <ClCompile Include="Baek14425.cpp">
+      <Filter>소스 파일\map</Filter>
+    </ClCompile>
+    <ClCompile Include="Baek1520.cpp">
+      <Filter>소스 파일\DFS</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
