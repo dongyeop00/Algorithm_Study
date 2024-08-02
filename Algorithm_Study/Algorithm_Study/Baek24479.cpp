@@ -3,7 +3,7 @@
 #include <vector>
 using namespace std;
 
-vector<int>V[100001];
+vector<int> V[100001];
 int visited[100001];
 int ans[100001];
 

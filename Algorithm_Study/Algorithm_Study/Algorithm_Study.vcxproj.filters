@@ -28,9 +28,6 @@
     <Filter Include="소스 파일\DP">
       <UniqueIdentifier>{aff05b1f-f5ca-4edc-8dc3-1432acbba2a8}</UniqueIdentifier>
     </Filter>
-    <Filter Include="소스 파일\map">
-      <UniqueIdentifier>{da5f94c7-e6d7-4b05-b7ac-ad777d5c999e}</UniqueIdentifier>
-    </Filter>
     <Filter Include="소스 파일\SWEA">
       <UniqueIdentifier>{78a8f7a0-4b02-4d4f-9c40-826972d85a0d}</UniqueIdentifier>
     </Filter>
@@ -48,6 +45,15 @@
     </Filter>
     <Filter Include="소스 파일\Math">
       <UniqueIdentifier>{69dfb1da-e4c2-484c-9cc2-fbd62836aafe}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\DataStructure">
+      <UniqueIdentifier>{dd74bd51-43fb-41d3-bece-0ed456ccf60a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\DataStructure\Array">
+      <UniqueIdentifier>{b6f8c863-257c-4238-a0dd-611d48589f5b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\DataStructure\map">
+      <UniqueIdentifier>{da5f94c7-e6d7-4b05-b7ac-ad777d5c999e}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
@@ -100,7 +106,7 @@
       <Filter>소스 파일\DFS</Filter>
     </ClCompile>
     <ClCompile Include="Baek31908.cpp">
-      <Filter>소스 파일\map</Filter>
+      <Filter>소스 파일\DataStructure\map</Filter>
     </ClCompile>
     <ClCompile Include="Baek24479.cpp">
       <Filter>소스 파일\DFS</Filter>
@@ -136,16 +142,34 @@
       <Filter>소스 파일\SWEA\D3</Filter>
     </ClCompile>
     <ClCompile Include="mapTest.cpp">
-      <Filter>소스 파일\map</Filter>
+      <Filter>소스 파일\DataStructure\map</Filter>
     </ClCompile>
     <ClCompile Include="Baek10815.cpp">
       <Filter>소스 파일\Search</Filter>
     </ClCompile>
     <ClCompile Include="Baek14425.cpp">
-      <Filter>소스 파일\map</Filter>
+      <Filter>소스 파일\DataStructure\map</Filter>
     </ClCompile>
     <ClCompile Include="Baek1520.cpp">
       <Filter>소스 파일\DFS</Filter>
+    </ClCompile>
+    <ClCompile Include="Baek7785.cpp">
+      <Filter>소스 파일\DataStructure\map</Filter>
+    </ClCompile>
+    <ClCompile Include="Baek10816.cpp">
+      <Filter>소스 파일\DataStructure\map</Filter>
+    </ClCompile>
+    <ClCompile Include="Baek1764.cpp">
+      <Filter>소스 파일\DataStructure\map</Filter>
+    </ClCompile>
+    <ClCompile Include="Baek11478.cpp">
+      <Filter>소스 파일\DataStructure\Array</Filter>
+    </ClCompile>
+    <ClCompile Include="Baek1269.cpp">
+      <Filter>소스 파일\DataStructure\Array</Filter>
+    </ClCompile>
+    <ClCompile Include="Baek1920.cpp">
+      <Filter>소스 파일\Search</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
