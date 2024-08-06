@@ -55,6 +55,9 @@
     <Filter Include="소스 파일\DataStructure\map">
       <UniqueIdentifier>{da5f94c7-e6d7-4b05-b7ac-ad777d5c999e}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Simulation">
+      <UniqueIdentifier>{f007f7f4-c694-406a-9bda-06c2615d0f91}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Baek11720.cpp">
@@ -179,6 +182,18 @@
     </ClCompile>
     <ClCompile Include="Swea16910.cpp">
       <Filter>소스 파일\SWEA\D3</Filter>
+    </ClCompile>
+    <ClCompile Include="Swea12004.cpp">
+      <Filter>소스 파일\SWEA\D3</Filter>
+    </ClCompile>
+    <ClCompile Include="Baek14503.cpp">
+      <Filter>소스 파일\Simulation</Filter>
+    </ClCompile>
+    <ClCompile Include="Baek10810.cpp">
+      <Filter>소스 파일\Simulation</Filter>
+    </ClCompile>
+    <ClCompile Include="Baek10813.cpp">
+      <Filter>소스 파일\Simulation</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
