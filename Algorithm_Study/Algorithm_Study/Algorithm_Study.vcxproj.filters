@@ -210,5 +210,17 @@
     <ClCompile Include="Baek10709.cpp">
       <Filter>소스 파일\Simulation</Filter>
     </ClCompile>
+    <ClCompile Include="Back14503_dfs.cpp">
+      <Filter>소스 파일\Simulation</Filter>
+    </ClCompile>
+    <ClCompile Include="Baek10431.cpp">
+      <Filter>소스 파일\Simulation</Filter>
+    </ClCompile>
+    <ClCompile Include="Baek1531.cpp">
+      <Filter>소스 파일\Simulation</Filter>
+    </ClCompile>
+    <ClCompile Include="Baek20546.cpp">
+      <Filter>소스 파일\Simulation</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
