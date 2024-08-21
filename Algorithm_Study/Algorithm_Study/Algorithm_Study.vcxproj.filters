@@ -16,9 +16,6 @@
     <Filter Include="소스 파일\Basic">
       <UniqueIdentifier>{67512da3-d785-47ca-8f7d-d184674d1088}</UniqueIdentifier>
     </Filter>
-    <Filter Include="소스 파일\Stack">
-      <UniqueIdentifier>{cc3395ce-db7f-4d8c-a9b8-57169e160016}</UniqueIdentifier>
-    </Filter>
     <Filter Include="소스 파일\DFS">
       <UniqueIdentifier>{4a8b23bf-fbe1-40d4-84d0-1d382370fb8e}</UniqueIdentifier>
     </Filter>
@@ -58,22 +55,25 @@
     <Filter Include="소스 파일\Simulation">
       <UniqueIdentifier>{f007f7f4-c694-406a-9bda-06c2615d0f91}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\DataStructure\Stack">
+      <UniqueIdentifier>{cc3395ce-db7f-4d8c-a9b8-57169e160016}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Baek11720.cpp">
       <Filter>소스 파일\Basic</Filter>
     </ClCompile>
     <ClCompile Include="Baek28278.cpp">
-      <Filter>소스 파일\Stack</Filter>
+      <Filter>소스 파일\DataStructure\Stack</Filter>
     </ClCompile>
     <ClCompile Include="stackMethod.cpp">
-      <Filter>소스 파일\Stack</Filter>
+      <Filter>소스 파일\DataStructure\Stack</Filter>
     </ClCompile>
     <ClCompile Include="Baek10773.cpp">
-      <Filter>소스 파일\Stack</Filter>
+      <Filter>소스 파일\DataStructure\Stack</Filter>
     </ClCompile>
     <ClCompile Include="Baek9012.cpp">
-      <Filter>소스 파일\Stack</Filter>
+      <Filter>소스 파일\DataStructure\Stack</Filter>
     </ClCompile>
     <ClCompile Include="Baek1012.cpp">
       <Filter>소스 파일\DFS</Filter>
@@ -88,10 +88,10 @@
       <Filter>소스 파일\DFS</Filter>
     </ClCompile>
     <ClCompile Include="Baek4949.cpp">
-      <Filter>소스 파일\Stack</Filter>
+      <Filter>소스 파일\DataStructure\Stack</Filter>
     </ClCompile>
     <ClCompile Include="Baek12789.cpp">
-      <Filter>소스 파일\Stack</Filter>
+      <Filter>소스 파일\DataStructure\Stack</Filter>
     </ClCompile>
     <ClCompile Include="Baek10026.cpp">
       <Filter>소스 파일\DFS</Filter>
@@ -227,6 +227,12 @@
     </ClCompile>
     <ClCompile Include="Baek9037.cpp">
       <Filter>소스 파일\Simulation</Filter>
+    </ClCompile>
+    <ClCompile Include="Baek2805.cpp">
+      <Filter>소스 파일\Search</Filter>
+    </ClCompile>
+    <ClCompile Include="Baek10828.cpp">
+      <Filter>소스 파일\DataStructure\Stack</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
