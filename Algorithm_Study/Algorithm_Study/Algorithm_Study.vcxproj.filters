@@ -234,5 +234,11 @@
     <ClCompile Include="Baek10828.cpp">
       <Filter>소스 파일\DataStructure\Stack</Filter>
     </ClCompile>
+    <ClCompile Include="Baek14646.cpp">
+      <Filter>소스 파일\Simulation</Filter>
+    </ClCompile>
+    <ClCompile Include="Baek15721.cpp">
+      <Filter>소스 파일\Simulation</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
